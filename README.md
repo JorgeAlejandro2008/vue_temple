@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+Solucion a problema con los iconos  
+yarn add @mdi/font
+import '@mdi/font/css/materialdesignicons.css'
